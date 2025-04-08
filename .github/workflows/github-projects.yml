@@ -1,4 +1,4 @@
-name: Ventilate issues to the right GitHub marketing project
+name: Add bugs to the relevant Open Food Facts GitHub Projects
 
 on:
   issues:
